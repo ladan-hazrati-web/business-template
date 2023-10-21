@@ -6,7 +6,7 @@
 
 - Developed by ladan hazrati
 
-- Created - 2023-09-15
+- Created - 2023-10-20
 
 - Technologies Used - Html , css , Flex , SASS , Bootstrap
 
